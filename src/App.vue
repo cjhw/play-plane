@@ -18,6 +18,7 @@ const { plane, bullets, enemyPlanes } = initGame(
     <Bullet v-for="bullet in bullets" :bullet="bullet"></Bullet>
     <EnemyPlane v-for="enemy in enemyPlanes" :enemy="enemy"></EnemyPlane>
   </Container>
+  //jjjj
 </template>
 
 <style></style>
